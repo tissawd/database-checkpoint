@@ -11,8 +11,8 @@ Query: ![](images/Challenge3_query.GIF)
 Results: ![](images/Challenge3_results.GIF)
 
 Challenge 4
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge4_query.GIF)
+Results: ![](images/Challenge4_results.GIF)
 
 Challenge 5
 Query: ![]()
