@@ -15,28 +15,28 @@ Query: ![](images/Challenge4_query.GIF)
 Results: ![](images/Challenge4_results.GIF)
 
 Challenge 5
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge5_query.GIF)
+Results: ![](images/Challenge5_results.GIF)
 
 Challenge 6
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge6_query.GIF)
+Results: ![](images/Challenge6_results.GIF)
 
 Challenge 7
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge7_query.GIF)
+Results: ![](images/Challenge7_results.GIF)
 
 Challenge 8
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge8_query.GIF)
+Results: ![](images/Challenge8_results.GIF)
 
 Challenge 9
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge9_query.GIF)
+Results: ![](images/Challenge9_results.GIF)
 
 Challenge 10
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge10_query.GIF)
+Results: ![](images/Challenge10_results.GIF)
 
 Challenge 11
 Query: ![]()
