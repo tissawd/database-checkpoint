@@ -1,14 +1,14 @@
 Challenge 1
 Query: ![](images/Challenge1_query.GIF)
-Results: ![]()
+Results: ![](images/Challenge1_results.GIF)
 
 Challenge 2
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge2_query.GIF)
+Results: ![](images/Challenge2_results.GIF)
 
 Challenge 3
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge3_query.GIF)
+Results: ![](images/Challenge3_results.GIF)
 
 Challenge 4
 Query: ![]()
