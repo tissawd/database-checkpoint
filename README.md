@@ -39,14 +39,14 @@ Query: ![](images/Challenge10_query.GIF)
 Results: ![](images/Challenge10_results.GIF)
 
 Challenge 11
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge11_query.GIF)
+Results: ![](images/Challenge11_results.GIF)
 
 Challenge 12
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge12_query.GIF)
+Results: ![](images/Challenge12_results.GIF)
 
 Challenge 13
-Query: ![]()
-Results: ![]()
+Query: ![](images/Challenge13_query.GIF)
+Results: ![](images/Challenge13_results.GIF)
 
